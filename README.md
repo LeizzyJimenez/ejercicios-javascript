@@ -14,3 +14,8 @@ Ejercicios prácticos de JavaScript
 3. Crear Funciones
 4. Integrar JavaScript con HTML 
 
+#Taller 3 Media, Mediana y Moda
+1. Definir las formulas
+2. Implementar la formula con JavaScript
+3. Crear Funciones
+4. Integrar JavaScript con HTML 
